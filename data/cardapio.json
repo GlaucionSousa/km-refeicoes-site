@@ -1,0 +1,32 @@
+{
+    "itens": [
+      {
+        "nome": "Frango à Parmegiana",
+        "preco": "R$ 28,90"
+      },
+      {
+        "nome": "Feijoada Completa",
+        "preco": "R$ 32,50"
+      },
+      {
+        "nome": "Lasanha de Carne",
+        "preco": "R$ 29,90"
+      },
+      {
+        "nome": "Salmão Grelhado com Legumes",
+        "preco": "R$ 38,00"
+      },
+      {
+        "nome": "Salada com Proteína Vegetal",
+        "preco": "R$ 25,00"
+      },
+      {
+        "nome": "Suco Natural do Dia",
+        "preco": "R$ 7,50"
+      },
+      {
+        "nome": "Pudim de Leite",
+        "preco": "R$ 10,00"
+      }
+    ]
+  }
